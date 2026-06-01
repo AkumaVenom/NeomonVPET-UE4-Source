@@ -1,0 +1,6 @@
+create a game sprite sheet of a new devil baby Digimon that resembles a baby digimon with a red devil tail and horns  
+
+animation frames needed:
+Idle, Blinking eyes, get hit, attack, mouth open, defeated, walk left leg.
+
+64x64, Transparent background, Digimon DS style.
